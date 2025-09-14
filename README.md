@@ -1,0 +1,1 @@
+Este repositório contém arquivos que são globais para a organização. Eles são os padrões em todos os repositórios sob o `sourceunion`, a menos que um arquivo local esteja presente.
