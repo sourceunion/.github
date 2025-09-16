@@ -1,4 +1,4 @@
-# Bem-vindo à SourceUnion!
+# Bem-vindo à **src.union**!
 
 Colaboração aberta para projetos acadêmicos com objetivo de fortalecer o aprendizado prático e o desenvolvimento educacional.
 
@@ -21,4 +21,4 @@ Se você busca aprimorar suas habilidades, colaborar em projetos desafiadores e 
 
 ---
 
-Obrigado por fazer parte da SourceUnion! Sua participação é essencial para fortalecer o aprendizado prático e fomentar a colaboração acadêmica.
+Obrigado por fazer parte da **src.union**! Sua participação é essencial para fortalecer o aprendizado prático e fomentar a colaboração acadêmica.
